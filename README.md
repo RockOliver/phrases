@@ -1,2 +1,2 @@
-# phrases
+# Phrases
 Phrases of Interest
